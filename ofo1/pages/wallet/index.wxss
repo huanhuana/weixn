@@ -1,0 +1,59 @@
+/* pages/wallet/index.wxss */
+.container{
+    width: 100%;
+    height: 100vh;
+    background-color: #f2f2f2;
+}
+.balance{
+    width: 100%;
+    height: 300rpx;
+    padding: 60rpx 0 40rpx 0;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.number{
+    font-size: 100rpx;
+}
+.my-balance,
+.describe{
+    font-size: 30rpx;
+}
+.describe{
+    display: block;
+    border: 1px solid #000;
+    border-radius: 40rpx;
+    padding: 10rpx 30rpx 10rpx 30rpx;
+}
+.recharge{
+    padding: 40rpx;
+}
+.recharge button{
+    background-color: #b9dd08;
+}
+.ticket,
+.deposit,
+.about{
+    height: 40rpx;
+    padding: 40rpx;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.deposit{
+    border-top: 1px solid #f2f2f2;
+}
+.about{
+    margin-top: 40rpx;
+    height: 60rpx;
+}
+.ticket-number{
+    margin-right: 10rpx;
+}
+.extra-text{
+    color: #b9dd08;
+    margin-right: 10rpx;
+}

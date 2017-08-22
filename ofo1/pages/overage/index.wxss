@@ -1,0 +1,24 @@
+/* pages/overage/index.wxss */
+.container{
+    width: 100%;
+    height: 100vh;
+    background-color: #f2f2f2;
+}
+.title{
+    padding: 30rpx 0 30rpx 50rpx;
+    font-size: 30rpx;
+}
+.input{
+    width: 90%;
+    margin: 30rpx auto;
+    background-color: #fff;
+    height: 100rpx;
+}
+.input input{
+    height: 100%;
+    text-align: center;
+}
+button{
+    width: 90%;
+    background-color: #b9dd08;
+}

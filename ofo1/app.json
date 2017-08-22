@@ -1,0 +1,20 @@
+{
+    "pages": [
+      "pages/index/index", 
+      "pages/wallet/index",
+      "pages/overage/index",
+      "pages/userInfo/index",
+      "pages/scanresult/index",
+      "pages/billing/index",
+      "pages/warn/index"
+        
+      
+    ],
+    "window": {
+      "navigationBarBackgroundColor": "#0F602B",
+      "navigationBarTextStyle": "snow",
+      "navigationBarTitleText": "ofo",
+      "backgroundTextStyle": "light",
+      "enablePullDownRefresh": false
+    }
+}
